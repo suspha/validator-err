@@ -1,0 +1,26 @@
+{
+  "name": "validator-err",
+  "version": "0.0.1",
+  "description": "validator for errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/suspha/validator-err.git"
+  },
+  "keywords": [
+    "validator.js",
+    "lib"
+  ],
+  "author": "Susana P",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suspha/validator-err/issues"
+  },
+  "homepage": "https://github.com/suspha/validator-err#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
